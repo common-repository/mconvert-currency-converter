@@ -1,0 +1,13 @@
+.mc-base-currency-link,
+.mc-base-currency-link:focus,
+.mc-base-currency-link:visited,
+.mc-base-currency-link:hover,
+.mc-base-currency-link:visited:hover {
+    color: inherit !important;
+    text-decoration: none !important;
+    border-bottom: 0 !important;
+}
+
+.mc-iframe {
+    margin: 0;
+}

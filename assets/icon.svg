@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Converter icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Converter-icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(4.000000, 8.000000)">
+            <path d="M87.7398802,10.1666667 C87.7398802,4.47333333 83.1937725,0.406666667 76.830807,0.406666667 C70.4678415,0.406666667 18.300103,0.406666667 11.6504108,0.406666667 C5.00071856,0.406666667 0.454610778,4.47333333 0.454610778,10.1666667 C0.454610778,15.86 0.454610778,35.7866667 0.454610778,46.36 C0.454610778,56.9333333 11.9894619,60.5933333 18.6390419,60.5933333 C29.2466267,60.5933333 46.1248728,46.4955556 69.2737801,18.3 L69.2737801,42.7" id="Line-Right" stroke="#38C873" stroke-width="8.03980563" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M87.7398802,10.1666667 C87.7398802,4.47333333 83.1937725,0.406666667 76.830807,0.406666667 C70.4678415,0.406666667 18.300103,0.406666667 11.6504108,0.406666667 C5.00071856,0.406666667 0.454610778,4.47333333 0.454610778,10.1666667 C0.454610778,15.86 0.454610778,35.7866667 0.454610778,46.36 C0.454610778,56.9333333 11.9894619,60.5933333 18.6390419,60.5933333 C29.2466267,60.5933333 46.1248728,46.4955556 69.2737801,18.3 L69.2737801,42.7" id="Line-Left" stroke="#38C873" stroke-width="8.03980563" stroke-linecap="round" stroke-linejoin="round" transform="translate(44.097246, 30.500000) scale(-1, 1) translate(-44.097246, -30.500000) "></path>
+            <path d="M39.0965269,55.6515783 L51.2368421,44.5769231 L55.0079042,48.1665385 C52.2802395,50.3354274 50.4617964,52.0976496 49.5525749,53.4532051 C48.6433533,54.8087607 49.4010379,56.2188453 51.8256287,57.683459 L39.0965269,55.6515783 Z" id="Filler" fill="#FFFFFF"></path>
+        </g>
+        <text id="Currency-converter" font-family="OpenSans-SemiBold, Open Sans" font-size="10.1999998" font-weight="500" fill="#404040">
+            <tspan x="0" y="88">Currency converter</tspan>
+        </text>
+    </g>
+</svg>
